@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DxpCtrl xmlns="http://www.chinaport.gov.cn/Dxp" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.chinaport.gov.cn/Dxp:\EportSrc\Dxp_Prj_Dev_liuhuan\Dxp_VOB\Dxp_Doc_Comp\03设计文档\02设计\传输报文定义\DXP.xsd" ver="1.0">
+	<RecNodeId>String</RecNodeId>
+	<MsgId>String</MsgId>
+	<MsgTime>2001-12-17T09:30:47.0Z</MsgTime>
+	<FixedUsers>
+		<Users>
+			<UserId>String</UserId>
+			<AdNodeId>String</AdNodeId>
+		</Users>
+	</FixedUsers>
+</DxpCtrl>

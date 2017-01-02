@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DxpCtrl xmlns="http://www.chinaport.gov.cn/Dxp" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ver="1.0" xsi:schemaLocation="http://www.chinaport.gov.cn/Dxp:\EportSrc\Dxp_Prj_Dev_liuhuan\Dxp_VOB\Dxp_Doc_Comp\03设计文档\02设计\传输报文定义\DXP.xsd">  
+  <RecNodeId>String</RecNodeId>  
+  <MsgId>String</MsgId>  
+  <MsgTime>2001-12-17T09:30:47.0Z</MsgTime>  
+  <FixedUsers> 
+    <Users> 
+      <UserId>String</UserId>  
+      <AdNodeId>String</AdNodeId> 
+    </Users> 
+  </FixedUsers>  
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/>
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+        <DigestValue>UicFJl6ZLUteHlP70Qgn3qmPAe4=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>H4dx+TxU1qvebSBBUytVA6/z5jggiAKCBJ1ZDR5iBEt2K5lnq1nSzJOo8rkV9Py62g8Wa3OpFnx1 bcJTjtxVI/wQ8XkQb1xnY/zjoozWvpq/wa5e31fpQvTb93SKoMyoxk8r6mUhqrDzqlq8imPgMPOB Iuai6B+5ksdrw9NjtFu8SENE6VpFNtvA0zN9wl90ely0CmqqdI8M6gm8nso7MvJ6jjJBjuSSHO4I P38jdecIqUXRc3R/XjYG57m7dFwhW8+AApb56IbtH/olwD5lLBtvLRxE1CbxhFM0PWxo6Gjl0L3+ cIcP/WNfD4Z7oIIArNPxip1CiwL6doAzBlhAOQ==</SignatureValue>
+    <KeyInfo>
+      <KeyValue>
+        <RSAKeyValue>
+          <Modulus>tIfW7IvOJvQBHYjXDd6I0i2xjPhNQTalamJccRLb9OV4NA3ccvxNIkZvZgPMdQEbztqtZlKRJYy4 iGtJldeHYJsKM1/HnrEczm4UPyqL69wl5GVdNL5ffKupRJXFBznSvkoWH30gGymeSihM82D14JG7 OEMBiR+plPK7z5ySe30oqpjJGQFXyKh3LGvC16BLvil2aGcm9r3IdAmDAZZ3iQsqI8wjRrMrDKQa ihx6cI5a7W2y6PaWiWJqK9i9kmw+ZxxSIWOtWudyCO+ZtLcVwx7NKKPDeGYP4b9A1Nr1y4bbn7w/ ajXQudNi7dCTSDaKrRm/HdfbNdgY3wv5dUsbMQ==</Modulus>
+          <Exponent>Aw==</Exponent>
+        </RSAKeyValue>
+      </KeyValue>
+    </KeyInfo>
+  </Signature>
+</DxpCtrl>

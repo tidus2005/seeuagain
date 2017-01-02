@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DxpCtrl xmlns="http://www.chinaport.gov.cn/Dxp" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ver="1.0" xsi:schemaLocation="http://www.chinaport.gov.cn/Dxp:\EportSrc\Dxp_Prj_Dev_liuhuan\Dxp_VOB\Dxp_Doc_Comp\03设计文档\02设计\传输报文定义\DXP.xsd">
+	<RecNodeId>String</RecNodeId>
+	<MsgId>String</MsgId>
+	<MsgTime>2001-12-17T09:30:47.0Z</MsgTime>
+	<FixedUsers>
+		<Users>
+			<UserId>String</UserId>
+			<AdNodeId>String</AdNodeId>
+		</Users>
+	</FixedUsers>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>UicFJl6ZLUteHlP70Qgn3qmPAe4=</DigestValue></Reference></SignedInfo><SignatureValue>JfhmBFlpcCTVofrP7pehxNcfe9AvDxyXs+TLr10ltVEOpwvgJMkFMyvfJiUyBBACbPUuD6uAt7Bn
+M5IxDgPiFXggE9E6CT8aqf289Z6qOubdymAO4oCTJlJzzqN2jV222nGxOt8JB40iaApz6jjWMb89
+zGMDNh6/XvkxhctfWz8=</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIDPTCCAiWgAwIBAgIEX14S/TANBgkqhkiG9w0BAQUFADCBwjEXMBUGA1UEAwwOc2Fuc2VjIGNh
+IHRlc3QxCzAJBgNVBAYTAkNOMQswCQYDVQQIDAJTRDELMAkGA1UEBwwCSk4xDTALBgNVBAoMBFNX
+WEExFjAUBgNVBAsMDUNsb3VkUGxhdGZvcm0xFjAUBgNVBBQTDTA1MzEtODg5ODg5MzcxITAfBgkq
+hkiG9w0BCQEWEnN3eGFAc2Fuc2VjLmNvbS5jbjEeMBwGA1UEEAwV6auY5paw5Yy66ZGr55ub5aSn
+5Y6mMB4XDTE2MTIxOTAyNDcyN1oXDTE3MTIxOTAyNDcyN1owgYExCzAJBgNVBAgMAlNEMQ4wDAYD
+VQQHDAVBREZBUzEPMA0GA1UECgwGU2Fuc2VjMRQwEgYDVQQLDAtTYW5zZWNDbG91ZDEeMBwGCSqG
+SIb3DQEJARYPNTQ2NTE0NjVAREQuY29tMQ4wDAYDVQQDDAV0ZXN0MTELMAkGA1UEBhMCQ04wgZ8w
+DQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMaVZxglilswqJjQJylwShNH+cL67WM6p6a34wp7Lb57
+YxVVbX9NLh5ziYXSXsAu6Dc3/eMTzTDgsnEQLLkcxRkCpV5daROysFD2ngeptIovlWR8yENL3ZF5
+vs2tZZmAVValachd17ZrSikDySPiQlXAZdGcKKqohboS10MNyID5AgMBAAEwDQYJKoZIhvcNAQEF
+BQADggEBAFM2jiBc76HeS50Ypd512BogetpkrwnCLL9tPdTI5+lYPsgQMkJdyeDHGKdFLAGTSn+V
+4Qq2bzwZxsPkfzPUmX5yfjMrNuA+ngiHMQjWGvx24lMIai6wfFeLJXX3Jff8e2UHfDK8bsvDJgkF
+EHA41PrbQXtdggcuWcaojVz/4bOybGG0RJL7AAaklAuE9itDPeTUHLC86NIQKH0+22eQbihQWCLv
+tuMQAjMtEOH090BgpSRj8gkhUn2e+iqxph1OhV5l69lq9sGZZTLRPUiaaAl1d7wPkSakxTi1q0fC
+0Vp9ePH0EjdRVMeGZbiVE90LDM/fPUvRT94ZOPdaAyVomL8=</X509Certificate></X509Data></KeyInfo></Signature></DxpCtrl>

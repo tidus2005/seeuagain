@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DxpCtrl xmlns="http://www.chinaport.gov.cn/Dxp" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ver="1.0" xsi:schemaLocation="http://www.chinaport.gov.cn/Dxp:\EportSrc\Dxp_Prj_Dev_liuhuan\Dxp_VOB\Dxp_Doc_Comp\03设计文档\02设计\传输报文定义\DXP.xsd">
+	<RecNodeId>String</RecNodeId>
+	<MsgId>String</MsgId>
+	<MsgTime>2001-12-17T09:30:47.0Z</MsgTime>
+	<FixedUsers>
+		<Users>
+			<UserId>String</UserId>
+			<AdNodeId>String</AdNodeId>
+		</Users>
+	</FixedUsers>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>UicFJl6ZLUteHlP70Qgn3qmPAe4=</DigestValue></Reference></SignedInfo><SignatureValue>JfhmBFlpcCTVofrP7pehxNcfe9AvDxyXs+TLr10ltVEOpwvgJMkFMyvfJiUyBBACbPUuD6uAt7Bn
+M5IxDgPiFXggE9E6CT8aqf289Z6qOubdymAO4oCTJlJzzqN2jV222nGxOt8JB40iaApz6jjWMb89
+zGMDNh6/XvkxhctfWz8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xpVnGCWKWzComNAnKXBKE0f5wvrtYzqnprfjCnstvntjFVVtf00uHnOJhdJewC7oNzf94xPNMOCy
+cRAsuRzFGQKlXl1pE7KwUPaeB6m0ii+VZHzIQ0vdkXm+za1lmYBVVqVpyF3XtmtKKQPJI+JCVcBl
+0ZwoqqiFuhLXQw3IgPk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue></KeyInfo></Signature></DxpCtrl>
